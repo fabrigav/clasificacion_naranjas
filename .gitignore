@@ -1,0 +1,20 @@
+# Entorno de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Datasets de imágenes
+orange_diseases/
+Fruits/
+
+# Pesos de los modelos entrenados
+*.pth
+*.pt
+*.ckpt
+
+# Resultados generados
+outputs/
